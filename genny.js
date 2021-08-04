@@ -9,7 +9,7 @@ var genny = function (fn, ln) {
 		//data.push(Math.floor((Math.random() * 10) + 1))
 	}
 	
-	console.log(head);
+	//console.log(head);
 	
 	return head;
 }
